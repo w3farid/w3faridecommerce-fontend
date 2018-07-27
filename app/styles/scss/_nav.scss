@@ -1,0 +1,16 @@
+.top-bar{
+    color: #495057;
+    background: #f8f9fa;
+    padding: 1rem;
+    font-weight: 300;
+}
+
+.svg-icon {
+    width: 18px;
+    height: 18px;
+    stroke: currentColor;
+    stroke-width: 3;
+    vertical-align: text-bottom;
+    --layer1: currentColor;
+    --layer2: currentColor;
+}
