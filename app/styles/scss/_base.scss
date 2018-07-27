@@ -37,6 +37,17 @@
     --font-family-sans-serif: "HK Grotesk", sans-serif;
     --font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
    }
+   .btn-bg-action{
+       background-color: $btn-bg-action;
+       color: $btn-text-action;
+       border-color: $btn-bg-action;
+       &:hover{
+            color: $white;
+            background-color: $btn-bg-action;
+            border-color: $btn-bg-action;
+       }
+
+   }
 
 *, ::before, ::after {
     box-sizing: border-box;

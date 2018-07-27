@@ -14,3 +14,15 @@
     --layer1: currentColor;
     --layer2: currentColor;
 }
+
+.shopping-cart-link{    
+    .fas {
+        font-size: 25px;  
+        color: $btn-text-icon-theme;  
+    }
+    .sub-label{        
+        color: $black;
+    }
+    &:hover{text-decoration: none;}
+
+}
