@@ -1,0 +1,7 @@
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: #27960b;
+  font-size: 40pt;
+  border: 1px dotted #991818;
+  -webkit-filter: blur(1px);
+          filter: blur(1px); }

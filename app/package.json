@@ -1,0 +1,33 @@
+{
+  "name": "w3faridecommerce-fontend",
+  "version": "1.0.0",
+  "description": "my personal ecommerce project. I have used fontend in vue and bootstrap, jquery etc.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3farid/w3faridecommerce-fontend.git"
+  },
+  "keywords": [
+    "w3farid",
+    "ecommerce"
+  ],
+  "author": "w3farid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w3farid/w3faridecommerce-fontend/issues"
+  },
+  "homepage": "https://github.com/w3farid/w3faridecommerce-fontend#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-watch": "^5.0.1"
+  }
+}
